@@ -1,0 +1,23 @@
+.banner {
+	background-image: linear-gradient(-220deg, rgba(19, 62, 135, 0.3) 0%, rgba(155, 155, 155, 0.2) 60%), url(../../images/sport.jpg);
+	color: black;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
+.banner h1 {
+	font-family: Roboto, sans-serif;
+	font-weight: lighter;
+	font-size: 70px;
+	font-style: italic;
+	margin-bottom: 130px;
+}
+
+.phrase-centre{
+	font-size: 35px;
+	font-family: Roboto, sans-serif;
+	font-weight: bolder;
+  	margin-bottom: 40px;
+}
